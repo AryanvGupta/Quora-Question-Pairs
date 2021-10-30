@@ -1,6 +1,6 @@
 # Quora Question Pairs
 
-Can you identify question pairs that have the same intent?
+Often we come across question over Quora which might be similar in nature but have been framed diffrently.
 This repository consist of code implementation for Quora Question Pairs problem in which we have to identify whether the two question are similar or not.
 <br>
 All the detail for the following are written in - https://www.kaggle.com/c/quora-question-pairs
